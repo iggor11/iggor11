@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Igor Rodrigues Batista 😁
+## Bem-vindo(a) ao perfil do Igor Rodrigues 😁
 
  <div>
    <a href="https://github.com/iggor11">
